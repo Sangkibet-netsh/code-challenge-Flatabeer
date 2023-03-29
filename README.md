@@ -41,6 +41,7 @@ As a user, I can:
    GET /beers/1
 
    Example Response:
+  
    {
       "id": 1,
       "name": "Oh So Flattening",
